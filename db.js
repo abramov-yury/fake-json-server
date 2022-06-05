@@ -1,5 +1,5 @@
-const products = require("./data/online-shop.json");
+const something = require("./data/something.json");
 
 module.exports = {
-  products,
+  something,
 }
